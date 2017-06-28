@@ -1,0 +1,4 @@
+PortAIO v2.0.0.1:
+- Fixed Activator# Conflict with the Obfuscator
+- Fixed Cleanse on ElUtilitySuite
+- Removed OKTW (Sebby request)
